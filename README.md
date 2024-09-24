@@ -1,2 +1,2 @@
 # scala
-Programming Language.
+Functional Programming Language.
